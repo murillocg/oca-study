@@ -1,7 +1,9 @@
 # Exceptions
 
 A classe principal é classe *Throwable*. Todos erros de execução são dessa classe ou de uma classe filha.
-Suas classes filhas são: *Error* e *Exception*.
+Suas classes filhas são: *Error* e *Exception*, conforme ilustra a figura abaixo.
+
+![Categories of Exception](categories.png)
 
 ## Error
 
@@ -41,3 +43,4 @@ void method(){
     }
 }
 ```
+parado na pag 372
