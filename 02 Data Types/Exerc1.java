@@ -1,4 +1,4 @@
-public class ComandoEmLinhas {
+public class Exerc1 {
 
 	public static void main(String[] args) {
 		int 
@@ -6,4 +6,6 @@ public class ComandoEmLinhas {
 		= 100;
 		System.out.println(age);	 	
 	}
+
+	// Opção d) O código compila e imprime 100.
 }
