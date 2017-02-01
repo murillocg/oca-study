@@ -8,6 +8,10 @@
 * Média de 65%
 * Chegar 15 minutos antes
 
+## Simulado
+
+Um dos sites mais recomendados que fornece simulados com preço bem acessível é o [Enthuware](http://enthuware.com/index.php/mock-exams/oracle-certified-associate/java-oca-certification-8).
+
 ## IDE para exercícios
 
 É altamente recomendável utilizar um editor de texto apenas com destacador de sintaxe e o compilador java pela linha de comando via **javac**. Assim será possível aprimorar a habilidade de detectar pequenos problemas de código, que em muitos casos são o foco do exame.
